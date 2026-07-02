@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0268-missing-number) |
 ## Hash Table
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0441-arranging-coins) |
 ## String
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
