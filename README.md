@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0441-arranging-coins) |
 ## Recursion
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0441-arranging-coins) |
 ## String
 |  |
 | ------- |
