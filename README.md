@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0443-string-compression](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0443-string-compression) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0443-string-compression](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0443-string-compression) |
 ## Sorting
 |  |
 | ------- |
