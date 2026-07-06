@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0268-missing-number) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0867-transpose-matrix) |
 ## Queue
