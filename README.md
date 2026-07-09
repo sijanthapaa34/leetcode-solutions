@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0867-transpose-matrix](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0443-string-compression) |
 ## Sorting
 |  |
