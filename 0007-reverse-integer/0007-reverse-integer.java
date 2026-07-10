@@ -1,7 +1,5 @@
 class Solution {
     public int reverse(int x) {
-        if(Integer.MIN_VALUE>x || x>Integer.MAX_VALUE)
-            return 0;
         boolean isNeg = x<0;
         long n = Math.abs(x);
         
