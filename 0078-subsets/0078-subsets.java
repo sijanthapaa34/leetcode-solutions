@@ -62,13 +62,14 @@
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> ans = new ArrayList<>();
         List<Integer> numToAdd = new ArrayList<>();
-        return subsetRecursion(numToAdd ,0,nums,ans );
+        subsetRecursion(numToAdd ,0,nums,ans );
+        return ans;
     }
 
-    public List<List<Integer>> subsetRecursion(List<Integer> numToAdd , int idx, int[] nums, List<List<Integer>> ans) {
+    public void subsetRecursion(List<Integer> numToAdd , int idx, int[] nums, List<List<Integer>> ans) {
         if(idx == nums.length){
             ans.add(new ArrayList<>(numToAdd));
-            return ans;
+            return;
         }  
         // subsetRecursion(new ArrayList<>(nums[idx]),idx+1,nums,ans); //pick
         // subsetRecursion(new ArrayList<>(),idx+1,nums,ans); //skip
@@ -77,8 +78,6 @@
         subsetRecursion(numToAdd, idx + 1, nums, ans);
         numToAdd.remove(numToAdd.size() - 1);   // backtrack
         subsetRecursion(numToAdd, idx + 1, nums, ans);   // skip
-
-        return ans;
     }
 
 }
