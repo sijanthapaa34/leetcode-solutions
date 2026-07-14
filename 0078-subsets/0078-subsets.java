@@ -71,8 +71,6 @@
             ans.add(new ArrayList<>(numToAdd));
             return;
         }  
-        // subsetRecursion(new ArrayList<>(nums[idx]),idx+1,nums,ans); //pick
-        // subsetRecursion(new ArrayList<>(),idx+1,nums,ans); //skip
 
         numToAdd.add(nums[idx]);          // pick
         subsetRecursion(numToAdd, idx + 1, nums, ans);
