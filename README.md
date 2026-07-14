@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -125,5 +127,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
