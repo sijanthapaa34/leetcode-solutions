@@ -12,14 +12,13 @@ class Solution {
             }
             ans[0] = sum;
             int left = 1;
-            int right = k;
+            int right = k+1;
             for(int i = 1; i< n; i++){
-                ++right;
                 sum+= code[right%n];
                 sum-= code[left%n];
                 ans[i] = sum;
                 left ++;
-                
+                right ++;
             }
         }
         else{
@@ -28,14 +27,13 @@ class Solution {
             }
             ans[0] = sum;
             int left = n+k;
-            int right = n-1;
+            int right = 0;
             for(int i = 1; i< n; i++){
-                ++right;
                 sum+= code[right%n];
                 sum-= code[left%n];
                 ans[i] = sum;
                 left ++;
-
+                right ++;
             }
         }
         return ans;
