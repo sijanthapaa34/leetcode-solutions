@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1652-defuse-the-bomb](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
+| [1695-maximum-erasure-value](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1695-maximum-erasure-value](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 ## Linked List
 |  |
 | ------- |
@@ -142,4 +144,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
+| [1695-maximum-erasure-value](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 <!---LeetCode Topics End-->
