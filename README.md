@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
