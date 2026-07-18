@@ -8,20 +8,28 @@ class Solution {
 
     public String count(String s){
         String ans = "";
-        int left = 0, count = 1;
-        for(int right = 1; right< s.length(); right++){
-            if(s.charAt(left) == s.charAt(right)){
-                count++;
-                continue;
-            }
-            ans += count;
-            ans += s.charAt(left);
-            left = right;
-            count = 1;
+        int i = 0, j = 0;
+        // for(int right = 1; right< s.length(); right++){
+        //     if(s.charAt(left) == s.charAt(right)){
+        //         count++;
+        //         continue;
+        //     }
+        //     ans += count;
+        //     ans += s.charAt(left);
+        //     left = right;
+        //     count = 1;
             
+        // }
+        // ans+= count;
+        // ans += s.charAt(left);
+        while(j < s.length()){
+            while(j < s.length() && s.charAt(i) == s.charAt(j)){
+                j++;
+            }
+            ans += j-i;
+            ans += s.charAt(i);
+            i = j;
         }
-        ans+= count;
-        ans += s.charAt(left);
         return ans;
     }
 }
