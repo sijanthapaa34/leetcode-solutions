@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0493-reverse-pairs](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0643-maximum-average-subarray-i](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0867-transpose-matrix](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0441-arranging-coins) |
+| [0493-reverse-pairs](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 ## String
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0493-reverse-pairs) |
 ## Memoization
 |  |
 | ------- |
@@ -146,4 +149,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
