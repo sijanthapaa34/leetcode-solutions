@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0643-maximum-average-subarray-i](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0867-transpose-matrix](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0867-transpose-matrix) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0443-string-compression) |
 ## Sorting
 |  |
