@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0443-string-compression) |
+| [0876-middle-of-the-linked-list](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
