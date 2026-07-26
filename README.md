@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1652-defuse-the-bomb](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
+| [2326-spiral-matrix-iv](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 ## Math
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [2326-spiral-matrix-iv](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [2326-spiral-matrix-iv](https://github.com/sijanthapaa34/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 ## Queue
 |  |
 | ------- |
