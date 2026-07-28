@@ -10,6 +10,7 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
+        // brute force
         // ArrayList<ListNode> arr = new ArrayList<>();
         // ListNode temp = head;
         // if(head == null) return head;
@@ -26,16 +27,25 @@ class Solution {
 
         // return arr.get(n-1);
 
-        ListNode prev = null;
-        ListNode curr = head;
-        ListNode fwd = null;
+        // pointer 
+        // ListNode prev = null;
+        // ListNode curr = head;
+        // ListNode fwd = null;
 
-        while(curr!= null){
-            fwd = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = fwd;
-        }
-        return prev;
+        // while(curr!= null){
+        //     fwd = curr.next;
+        //     curr.next = prev;
+        //     prev = curr;
+        //     curr = fwd;
+        // }
+        // return prev;
+
+        // recursion
+        if(head == null || head.next == null) return head;
+        ListNode a = head.next;
+        head.next = null;
+        ListNode b = reverseList(a);
+        a.next = head;
+        return b;
     }
 }
