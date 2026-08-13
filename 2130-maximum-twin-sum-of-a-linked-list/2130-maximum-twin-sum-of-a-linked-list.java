@@ -16,28 +16,28 @@ class Solution {
             slow = slow.next;
             fast = fast.next.next;
         }
-        ListNode head2 = reverse(slow.next);
-        slow.next = null;
-        ListNode temp = head;
-        int max = 0;
-        while(temp!= null && head2!= null){
-            int ans = temp.val + head2.val;
-            if(ans > max) max = ans;
-            temp = temp.next;
-            head2 = head2.next;
+        ListNode front = head;
+        ListNode back = reverse(slow.next);
+        int maxSum = 0;
+        while(back!= null){
+            int sum = front.val + back.val;
+            front = front.next;
+            back = back.next;
+            if(maxSum< sum) maxSum = sum;
         }
-        return max;
+        return maxSum;
     }
 
     public ListNode reverse(ListNode head){
-        ListNode curr = head;
         ListNode prev = null;
-        ListNode next = null;
+        ListNode curr = head;
+        ListNode fwd = null;
+
         while(curr!= null){
-            next = curr.next;
+            fwd = curr.next;
             curr.next = prev;
             prev = curr;
-            curr = next;
+            curr = fwd;
         }
         return prev;
     }
